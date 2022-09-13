@@ -1,7 +1,6 @@
 
 #from image import Ui_Form
 import sys
-sys.path.append('/usr/local/lib/python3.8/site-packages')
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import copy
