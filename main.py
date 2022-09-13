@@ -1,5 +1,3 @@
-from PyQt5 import QtCore, QtGui, QtWidgets
-from matplotlib import pyplot as plt
 
 #from image import Ui_Form
 import sys
