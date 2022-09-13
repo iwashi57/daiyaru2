@@ -7,7 +7,7 @@ import copy
 import argparse
 
 import numpy as np
-import mediapipe as mp
+
 # from utils import CvFpsCalc
 
 from PyQt5 import QtGui
